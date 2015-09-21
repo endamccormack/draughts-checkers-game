@@ -3,7 +3,8 @@
 ## Overview
 
 Publishing some of my college work in case some other students might find it
-of use. This project was to create a game in web forms, I chose draughts.
+of use. This project was to create a game in C# web forms with visual studios,
+I chose draughts.
 
 Features
 - Drag and drop
